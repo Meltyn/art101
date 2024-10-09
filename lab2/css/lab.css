@@ -18,6 +18,7 @@ p {
 }
 #content {
   background-color: #7ec1cf;
+  width: 400%;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
