@@ -24,6 +24,6 @@ p {
   margin: 10px;
   border: solid 5px #444444;
   font-size: 20px;
-  div {border-style: dotted;}
+  div {border-style:solid;}
   
 }
