@@ -1,4 +1,8 @@
 /* this css file will only style the homepage of our site */
 #my-portrait {
-  width: 300px;
+  width: 400px;
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
