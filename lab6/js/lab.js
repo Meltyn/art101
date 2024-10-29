@@ -1,5 +1,5 @@
-// index.js - purpose and description here
-// Author: Your Name
+// index.js - Arrays and Objects practice
+// Author: Sarai
 // Date:
 
 // Constants
@@ -19,3 +19,21 @@ function main() {
 
 // let's get this party started
 main();
+
+//Define Variables
+myTransport = ["walking", "bus", "car", "train"];
+
+
+MyMainRide = {
+    make : "Ford",
+    model : "Escorts",
+    color : "Rusty",
+    year : 1980,
+    age : function() {
+      return 2024 - this.year;
+  }
+};
+
+document.writeln("Getting around: " + myTransport + "<br>");
+document.writeln("My Main Ride: <pre>",
+  JSON.stringify (MyMainRide, null, '\t',  "</pre>") );
