@@ -5,23 +5,10 @@
     font-weight: bold;
 }
 
-#challenge {
+#minor-section {
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #bfbff1;
-}
+    background-color: #DDD8C4;
+  }
 
-#problems {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #bfbff1;
-}
-
-#results {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #bfbff1;
-}
