@@ -1,6 +1,6 @@
 //lab.js - This simple lavascript/jQuery script uses buttons to modify some elements on the page
 //Requirements: jQuery must be loaded for this script to work
-//Author: Wes modes
+//Author: Sarai Lopez
 //Date: 2024
 
 // add button to challenge section
