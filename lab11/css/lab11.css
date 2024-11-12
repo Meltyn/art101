@@ -1,0 +1,14 @@
+#output {
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 1px black;
+    min-height: 100px;
+  }
+
+.minor-section  {
+    background-color: rgb(225, 161, 225);
+    padding: 25px;
+    font-size: 120%;
+}
