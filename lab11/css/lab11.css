@@ -5,6 +5,10 @@
     border-radius: 15px;
     border: solid 2px rgb(165, 50, 148);
     min-height: 100px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
 .minor-section  {
@@ -12,3 +16,4 @@
     padding: 25px;
     font-size: 120%;
 }
+

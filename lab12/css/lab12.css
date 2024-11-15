@@ -1,0 +1,15 @@
+#output {
+    position: absolute;
+    right: 350px;
+    padding: 50px;
+    border-radius: 150px;
+    border: solid 2px black;
+    background-color: white;
+    width: 500px;
+}
+
+.minor-section  {
+    background-color: rgb(161, 205, 225);
+    padding: 25px;
+    font-size: 120%;
+}
