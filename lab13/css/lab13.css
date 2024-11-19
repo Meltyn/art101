@@ -1,0 +1,44 @@
+input[type="number"] {
+    width: 40px;
+}
+input[type="text"] {
+    width: 100px;
+}
+
+input#max {
+    width: 60px;
+}
+
+table {
+    padding: 40px;
+}
+
+input, button {
+    font-size: 90%;
+}
+
+div#input {
+    border: solid 1px #f78cf0;
+    padding: 20px;
+    background-color: rgba(230, 150, 255, 0.5);
+}
+
+div#output {
+    border: solid 1px #fbb2f0;
+    padding: 20px;
+    background-color: rgba(248, 211, 255, 0.706);
+}
+
+
+/* this is to make the paragraphs in the output closer together */
+
+
+#output.cols {
+    -webkit-column-width: 200px; 
+    column-width: 200px;
+}
+
+.error {
+    color: rgb(255, 0, 221);
+    font-weight: bold;
+}
